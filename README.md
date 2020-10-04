@@ -15,7 +15,7 @@ Repository containing the codes in **English** that occurred during the courses.
 
 - Course 1: **Neural Networks and Deep Learning**
 
-  - [Week 2 - Python Basics with numpy (optional)](https://github.com/LeoFuchs/)
+  - [Week 2 - Python Basics with numpy (optional)](https://github.com/LeoFuchs/Deep-Learning-Coursera/blob/master/Neural%20Network%20and%20Deep%20Learning/Python%20Basics%20with%20numpy%20(optional).ipynb)
   - [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/LeoFuchs/)
   - [Week 3 - Planar data classification with one hidden layer](https://github.com/LeoFuchs/)
   - [Week 4 - Building your Deep Neural Network: Step by Step¶](https://github.com/LeoFuchs/)
